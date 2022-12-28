@@ -1,2 +1,2 @@
 # meta-openrex
-OpenRex BSP Layer
+Custom OpenRex BSP Layer
